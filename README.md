@@ -2,7 +2,25 @@
 Like Guitars/Basses? Have a look at my builds here.
 This Repository is currently under a state of construction. But here are some headline photos to start.
 It's also worth noting, aside from a single book, and some Youtube videos. I've taught myself how to do this with no classes/resources. 
-## #9 the Blueberry Baritone.
+
+In time these headings will be links to folders in the repository explaining proccesses in detail. and hopefully some videos of later builds when I started video recording the process.
+
+## #17 Long Bass "Wave"
+Coming soon...
+## #16 Acoustic V4 "Legless"
+Coming soon...
+## #15 Strandberg "Era's End"
+Coming soon...
+## #14 LP Special "Deep Blue"
+Coming soon...
+## #13 Strat "Goldie"
+Coming soon...
+## #12 Acoustic V3 Gretch
+Coming soon...
+## #11 Bass VI
+Coming soon...
+ 
+## #10 the Blueberry Baritone.
 So called because the color scheme is a sort of Blueberry Burst, and is a long scale (28.5 inch) Baritone design.
 Again based off of the Yard Pine body. and a Novo body style (Quite frankly I love the ergonomics, and could never afford to buy one. So I build for myself, not for sale)
 this one sports a multi laminate Jatoba neck and a new headstock. Originally I planned to use a roasted maple neck, but it was too short, even with the new headstock design.
@@ -21,7 +39,7 @@ the pickups are both hand wound, one is a Firebird, and the other is a mini humb
 ![IMG_0536](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/4a02e2c3-8c03-4bd5-844d-ffe75d4233f9)
 ![IMG_0507](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/d28590da-a1d3-4c5d-833a-98a7be14fb95)
 
-## #8 Acoustic Version 2
+## #9 Acoustic Version 2
 Finally, it's time to take a shot at another acoustic. But being a glutton for punishment, I can't just keep it simple.
 So tho that end, this is a Sapelle (cut from my own supplies, not pre-thinned) and red cedar model. with a deep florentine cutaway.
 
@@ -42,6 +60,21 @@ Well it worked out great, the build has a great deep bass without sounding too d
 ![IMG_9451](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/92aa43d7-73ab-48f5-abd3-5aca758b9d2c)
 ![IMG_1030](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/289b3893-3e0f-4294-addd-e0d0dca2108c)
 ![IMG_1026](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/08ac9dc2-144c-4669-8bf8-bddc076756d8)
+
+## #8 The Light Esquire
+
+This is an exercise in using spare parts.
+From the original esquire build I has a body blank saved, what was perfect for a japanese Kinsugi approach, by layering black and blue dye into the knot, and adding gold into the cracks.
+The neck is a piece of roasted maple with a Sugi Ban (charred) finish on part.  I also had to make a special spacer because the headstock was too thin for locking tuners,  apparently theyre thicker than regular tuners. this was my first experience with them.
+Also, the freboard is a roasted birdseye maple. with a hummingbird inlay. My first go at a large inlay design.
+I don't have many pictures of this build sadly.
+![IMG_0988](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/b1584087-b789-46cd-a0a3-dd69fa6c7d27)
+![IMG_0987](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/c1d7041b-ac88-4f8e-acf2-654f133a00bc)
+![IMG_8869](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/2d5dffbd-e9a4-42d4-bec0-bec1389dddf2)
+![IMG_8868](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/cc95d8ee-5bba-450c-9a1a-d734689eac2d)
+![IMG_0995](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/d1fe85ea-4d05-4d8d-b01d-634d288a82dd)
+![IMG_0990](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/e52bcc4d-6e1f-4918-be92-dae7ac880717)
+
 
 
 ## #7 The Jazzmaster style.
