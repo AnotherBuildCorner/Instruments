@@ -6,19 +6,150 @@ It's also worth noting, aside from a single book, and some Youtube videos. I've 
 In time these headings will be links to folders in the repository explaining proccesses in detail. and hopefully some videos of later builds when I started video recording the process.
 
 ## #17 Long Bass "Wave"
-Coming soon...
+It was finally time, time to build a long scale bass. 
+To that end I borrowed a more modern design and created this beauty.
+The body is a single piece of beetle kill ash, chosen for the grain pattern along one edge, with a flame/spalted birch top with walnut middle layer. 
+The neck is a multi laminate Sapelle neck with a burl maple headstock cap, stained black. and reverse tuners.
+The newest addition is the linked multi-dot fretboard inlay, executed by 3D printing a special template to route into the neck.
+Pickups are EMG sized custom wound Jazz bass style pickups, with 2 volume, 1 tone, 3 way selector switch, and a series parallel switch under the tone pot.
+
+The name "Wave" will make itself known when you see the top.
+
+![IMG_5247](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/d5026e76-58a9-41fc-b8e0-f965b72531b3)
+![IMG_5239](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/95d7c2ce-f93e-43d5-8755-6f4bb1d14ac8)
+![IMG_5193](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/bebaa53d-6a21-41a0-94ec-dd4b1fe54bb4)
+![IMG_5185](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/0ce82ac2-882d-4d4b-979a-9865d72414c7)
+![IMG_5133](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/37604903-05eb-409a-af73-ccd3e7361998)
+![IMG_5119](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/7da313a4-bcaf-4aaf-9ef5-5fe92e8322b3)
+![IMG_5097](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/711f969c-60a0-4d70-92f0-2e569e48a906)
+![IMG_5529](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/489b715b-2476-4b0d-aa44-56c408463f28)
+![IMG_5527](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/310cfc2b-d9ca-467a-92fc-f5ead4336763)
+![IMG_5526](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/966088cc-6c62-4069-8988-a718b3bb42db)
+![IMG_5525](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/43c9ad60-c0f1-4f6e-a5a6-f06c96dd1ed2)
+![IMG_5283](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/88e9575f-895e-454f-a845-01902fe5c3a1)
+![IMG_5263](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/1984cba2-9c6f-4a8f-8dc3-21346637b70a)
+![IMG_5261](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/84b29054-afd8-42dd-8b69-fed1d7c6827f)
+![IMG_5254](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/15881ad6-eea9-405d-af1f-b665be069d5c)
+
+
 ## #16 Acoustic V4 "Legless"
-Coming soon...
+Another experimental build. That in hindsight i shouldn't have used the back/sides set I used on it. Happily it all worked out better than I could have planned.
+Why is this called "Legless?" Simply because it has a leg cutout. On an Acoustic none the less!  This is to enable a more traditional playing postition used by classical guitar players.
+
+Sitka Spruce top with a highly figured Bubinga back and sides (Which really smells good when you're working it)  Ebony bridge with ziricote fretboard. Mahogany multi-lam neck with a 630-650mm multi scale fretboard.
+This build is the third I've used the V bracing on, and the second to bear this body shape, albeit without the cutaway.  It also has the electric style heel joint with a refined neck block.
+
+Plays as good as she looks, and She looks good if i do say so myself.
+![IMG_4557](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/6ae4b39f-4c90-4fa7-a234-398bb51a3392)
+![IMG_4512](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/d040b9e7-70f0-4318-a87f-049f2b7de61f)
+![IMG_4504](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/2637c8be-80ee-42ed-b1fc-52966f6cf5eb)
+![IMG_4471](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/18ce2da2-fa5a-4a4f-a296-6fe87973e46f)
+![IMG_4438](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/63574738-2aee-4016-a62a-5edd353b10fc)
+![DSC_0342](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/de529408-1eb5-4ef7-9deb-98b952e70bbe)
+![DSC_0341](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/42273bb6-e2a0-4b2c-99e1-fa82a65661a2)
+![IMG_4988](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/4e6679ab-a31a-4365-a008-38b5e2539867)
+![IMG_4983](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/207cdda4-1f1c-46eb-9e9f-64af4231063e)
+![IMG_4904](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/93afa0b1-cb00-4300-a56d-dfa51a17acbe)
+![IMG_4897](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/8fb8df23-a940-43ff-ab94-16aa49d331cb)
+![IMG_4718](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/288876d9-f56c-419a-bfab-69eddea5c2d0)
+![IMG_4562](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/d4d2d816-18a3-41e4-965c-533d73c43ac5)
+
 ## #15 Strandberg "Era's End"
-Coming soon...
+So, all of the guitars to this point share a common problem.  They don't exactly work well sitting in a chair with arms. And I found myself playing less, and so made this in an effort to change that.
+Also, I'e been rather curious about how the fanned fret approach feels, and needed a challenge.  Plus around where I live, there's not a lot of great instrument stores to try out things like strandbergs and the like. So if i want to experiece something, I typically have to make it.  This is no different.
+
+The top is a very special piece of semi spalted walnut, something that came from a much larger board, but only a small section had this appearance. 
+The back is beetle kill ash, I cut down and harested myself.
+The neck is a mahogany multi laminate neck with Ziricote fretboard.
+Just some basic 5 way wiring with the 2 and 4 positions being split humbuckers.  The neck pickup is a Seymour Duncan, Seth Lover i bought many years ago. while the bridge is made by yours truly.
+Sadly, this guitar also straddles a major life event, and not a nice one either.  But I will keep the details to myself.
+![IMG_4044](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/40a84861-0ff8-47f1-8d2f-849e612e3de3)
+![IMG_4036](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/7e19de55-656c-45d8-b451-ade757cce856)
+![IMG_3999](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/daa5d28a-6c10-4cd7-9d35-18b8df467b1b)
+![IMG_4356](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/0ae59241-9561-464f-9f33-76fc662c395b)
+![IMG_4355](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/137492ae-6e37-410e-b01a-084cb7c877c2)
+![IMG_4343](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/07ccdca6-72eb-4368-a835-b5e75422c88a)
+![IMG_4226](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/eb630ba9-1cca-471c-87be-949764a1bc9e)
+![IMG_4197](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/fd9df880-b307-44f6-b1cc-a4255257308f)
+![IMG_4175](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/d623cdad-b16a-45a1-b093-affc40f6df21)
+![IMG_4131](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/2b604903-c18c-4b40-bad4-7bbef12e4f88)
+![IMG_4121](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/076d7eda-3d04-4814-90e1-f2e1449d97da)
+![IMG_4071](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/8a267526-6efa-42df-b11b-dfa8ce15e04c)
+
 ## #14 LP Special "Deep Blue"
-Coming soon...
+Another gift guitar. Specifically a wedding gift And quite frankly I almost didn't let this one go either.
+The original inspiration is more a matter of frustration. After experiencing the Les Paul Tribute owned by who now posesses this beauty. I couldn't accept the fact the fretboard had shrunk in relation to the neck, leaving a nasty little ridge.
+The body is a single piece of beetle kill ash, With a cherry multi laminate neck, tune-O-Matic bridge and Walnut tailpiece.
+Finished with Angelus blue leather dye on the body and a copper leaf arm bevel, all under straight from the spray gun nitrocellulose lacquer. This one has a feel that's hard to beat. Simple wiring with 3 way switch, handwound humbuckers, with a series/parallel enabled on the neck pickup.  For a short while the neck pickup was wired horribly wrong. 
+In essence, Humbuckers are two identical coils, with the start wires tied together, with the finish wires being the hot and ground. this produces the hum cancelling effect.  Well. I wired it start-finish in the middle, which didn't produce a lot of noise but essentially created a massive single coil.  Sounded surprisingly good. But parallel is a close match, with less noise.  hence the series/parallel switching.
+
+Oh, and this is a first for me, Stainless steel frets.
+
+![IMG_2894](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/e3ad3df6-7a7d-4ef0-b500-1a3bb348b586)
+![DSC_0264](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/4fc58a09-17e3-410b-a960-fade421a513b)
+![DSC_0255](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/fc74d5cd-002c-48e7-b6ed-3ebd7d339e4b)
+![IMG_3853](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/b8151910-1040-4cc6-8a5c-427143a60fb6)
+![IMG_3794](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/0d12e4af-7c09-4609-869b-88d50414d72b)
+![IMG_3793](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/94beacb0-96ed-4880-a23b-55b0af11f682)
+![IMG_3116](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/4e973d5f-7e2c-4a69-91ea-4d0daada8055)
+![IMG_3015](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/b8c771ff-b250-45a7-b4dc-0578d4e1a87f)
+![IMG_2969](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/fa675bbd-56d9-4f51-89f4-7e7143c242d0)
+
+
 ## #13 Strat "Goldie"
-Coming soon...
+Sometimes, you set out to build something, and find the pieces to make it.
+Other times, the pieces tell you what to build.  This represents the latter.
+The body is a piece of Spanish Cedar, which is fine subsitute for traditional mahogany. 
+The top is a walnut block from the cheap bin, resawed in half, epoxy filled to stabilize the cracks. Finished in gloss 2K lacquer and polished to a high gloss.
+the neck is roasted Flame neck. with a Ziricote fretboard with hollow tube inlays.
+
+three handwound pickups fill out the electronics in a HSS configuration. The electronics have a few secrets. standard 5 way wiring, with a neck enable switch, a 3 position Series/Split/Parallel for the Humbucker, and hidden under the tone pot, is an inductive tone filter as well as a traditional high roll off.
+
+Careful,  The top is hard to look away from once you see it. 
+![IMG_2823](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/9b00f889-4bb9-4f5a-99a0-80a1883d760c)
+![IMG_2773](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/6505800b-0022-4e6c-bb06-524e3ee7bb9c)
+![IMG_2729](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/405fc68a-ce12-4a88-8b17-d53134728064)
+![IMG_2568](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/40398db3-2bd2-4371-a6fa-987925ce6868)
+![IMG_2554](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/8c73347f-7131-4e6f-80ff-10a374294d5e)
+![IMG_2828](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/91ef1406-2ac4-42eb-9af5-6205bdb32d4e)
+![DSC_0089](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/4b9a6639-771f-480f-b8bd-31ed95a8b8f2)
+![DSC_0091](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/02c676c6-c8e6-479e-a0af-cf0e0bdefe66)
+![DSC_0094](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/a0276468-10b5-402e-b853-71e76a72b4a5)
+
 ## #12 Acoustic V3 Gretch
-Coming soon...
+The 3rd acoustic style. This one represents a departure from previous designs by pulling inspiration from Archtop Acoustic/Electrics.
+The first build i've done using a TuneO-Matic bridge/ The top has a brace located where the bridge studs thread into. Chosen because pressing in studs on an acoustic is a terrible idea, and the design didnt call for an archtop floating bridge.
+Sitka spruce top, Walnut back and sides. with an electric style neck joint, deep cutaway and offset design for ergonomics. and two splittable humbucker pickups with Ziricote inserts.
+
+![IMG_1992](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/770cd3a4-fa74-47a5-889c-354bc527038c)
+![IMG_1857](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/c8577841-11f2-428b-b24c-6a4b875da23a)
+![DSC_0357](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/381d99c2-f0c8-4191-9257-68a709234441)
+![DSC_0354](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/45377211-3ad3-42b4-abb7-8692e1d019ab)
+![IMG_2330](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/53e04e2d-0921-40b0-bdca-a5024424dabe)
+![IMG_2306](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/18356bdc-afdd-4997-84a7-b47b9bd4b1e7)
+![IMG_2147](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/4cdf0edc-6835-4c59-9237-70f549ad1df2)
+![IMG_2004](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/21341356-e4d9-4efb-8902-4b5bcf0e5b53)
+
+
 ## #11 Bass VI
-Coming soon...
+Its a Guitar... no it's a Bass...  NO   ITS A BASS VI!
+Tuned E-E, like a guitar, but down a full octave like a bass, with a 30.5 inch scale length and guitar sized neck. This is a monster of an instrument. Many don't know of this class of instruments, but can famously be heard on some Beetles tracks among other tracks.
+The design is a sort of modified Firebird. So heavily modified it's no longer recognizeable.
+Ths one sports a curly ash top, with a Beetle kill ash back, A tree I personally cut down. With flame maple binding.
+The top has been flame accented to highlight some of the darker grain.  Neck is a jatoba multi laminate with center stripe.
+Internally the body is filled with series of small circular chambers for weight releif.
+Pickups are hand wound alnico pole pickups sized after Bass VI pickups, except the bridge is more of a jazzmaster style for a bit more midrange.
+
+![IMG_1457](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/624fdae1-f89b-4692-8bb7-7b24ca8ef6d4)
+![IMG_1421](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/6fda85dd-c7c9-4325-82ab-b9db4c467c61)
+![IMG_1272](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/1bcebe01-8c74-4a57-be2c-4394e7f62697)
+![IMG_1251](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/e09e04a8-9e6c-48d6-9463-05a966968ecf)
+![IMG_1738](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/f5f62514-bd34-4d96-96ff-d103033b62b2)
+![IMG_1737](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/cf28c97b-f0a9-41c9-ab58-a0110892bd15)
+![IMG_1695](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/b2049525-c627-445e-92f2-b523f6875d88)
+![IMG_1611](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/02b28ab9-b3a3-41c7-9365-0ef07a3585e4)
+![IMG_1483](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/905a3c77-cf0a-4f56-9084-b9d0c45ac5e1)
+
  
 ## #10 the Blueberry Baritone.
 So called because the color scheme is a sort of Blueberry Burst, and is a long scale (28.5 inch) Baritone design.
@@ -27,6 +158,9 @@ this one sports a multi laminate Jatoba neck and a new headstock. Originally I p
 Also, the pickguard is a laminated aluminium and walnut guard for shielding and stability. With 2 tone block inlays.
 
 the pickups are both hand wound, one is a Firebird, and the other is a mini humbucker. (internally the difference is in magnet placement)
+
+It's also right around this time where I transistioned from a basic winder using nothing but a variable speed drill.
+To a custom built winder with CNC capabilites, based around common RC motors and servos, powered by an Arduino microcontroller.
 ![IMG_0665](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/140ab30e-e2fe-4fbe-8354-daef2dce5da4)
 
 ![IMG_0499](https://github.com/AnotherBuildCorner/Instruments/assets/112969078/0dea223d-a2a2-49a1-bfb0-d04e485bed10)
